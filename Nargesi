@@ -1,1 +1,1 @@
-vless://9d657b8b-5f81-4b15-82fd-3eca48e66f35@45.85.119.82:443?path=%2Fmy-key%3Dabc%2F&security=tls&encryption=none&host=family1002.cfhb.workers.dev&type=ws&sni=family1002.cfhb.workers.dev#Titanium-V
+vless://9d657b8b-5f81-4b15-82fd-3eca48e66f35@45.85.119.82:443?path=%2Fmy-key=abc%3Dabc%2F&security=tls&encryption=none&host=family1002.cfhb.workers.dev&type=ws&sni=family1002.cfhb.workers.dev#Titanium-V
